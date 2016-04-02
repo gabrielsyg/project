@@ -6,6 +6,7 @@ body {
 	font: 12px/1.4 Verdana, Arial, Helvetica, sans-serif;
 	text-align: center;
 	}
+/*Testeee*/
 #tudo {
 	width: 980px;
 	margin: 0 auto;
@@ -25,7 +26,7 @@ body {
 	font-size: 28px;
 	margin:0;
 	}
-/*Mais coment·rios*/
+/*Mais coment√°rios*/
 #topo h1 span {
 	color:#fff;
 	}
@@ -117,7 +118,7 @@ h2 {
 	color: #f90;
 	text-decoration: none;
 	}
-/* Consulte a errata da p·gina 287 em http://www.livrohtml.com.br/errata.php */
+/* Consulte a errata da p√°gina 287 em http://www.livrohtml.com.br/errata.php */
 p.pular {margin:0;}
 p.pular a {
 	display:block;
